@@ -4,7 +4,7 @@
   "description": "",
   "main": "insersionSort.js",
   "scripts": {
-    "test": "mocha --require @babel/register"
+    "test": "mocha --require @babel/register test/*.test.js"
   },
   "author": "",
   "license": "ISC",
